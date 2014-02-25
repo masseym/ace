@@ -30,7 +30,7 @@ doc:
 	cd doc;\
 	(test -d node_modules && npm update) || npm install;\
 	node build.js
-
+dddd
 clean:
 	rm -rf build
 	rm -rf ace-*
